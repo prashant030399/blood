@@ -6,7 +6,7 @@
                 <title>Document</title>
 
 
-    <style>
+  <style>
         *
         {
         margin:0px;
